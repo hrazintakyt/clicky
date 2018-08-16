@@ -1,0 +1,37 @@
+[{
+    "id": 1,
+    "image": "https://media.mnn.com/assets/images/2017/01/cow-in-pasture.jpg.838x0_q80.jpg",
+    "clicked": false
+}, {
+    "id": 2,
+    "image": "https://www.collinsdictionary.com/images/thumb/chicken_249474721_250.jpg?version=3.1.171",
+    "clicked": false
+}, {
+    "id": 3,
+    "image": "https://kids.nationalgeographic.com/content/dam/kids/photos/animals/Mammals/H-P/pig-young-closeup.ngsversion.1412640764383.jpg",
+    "clicked": false
+}, {
+    "id": 4,
+    "image": "http://www.abc.net.au/news/image/9673494-3x2-700x467.jpg",
+    "clicked": false
+}, {
+    "id": 5,
+    "image": "https://pbs.twimg.com/profile_images/783825075/llammalane_400x400.jpg",
+    "clicked": false
+}, {
+    "id": 6,
+    "image": "https://media4.s-nbcnews.com/j/newscms/2018_32/2525151/180809-misty-dk-1024_d89d5e7437c1e1c8b0370e118b48395d.fit-760w.jpg",
+    "clicked": false
+}, {
+    "id": 7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg",
+    "clicked": false
+}, {
+    "id": 8,
+    "image": "https://rabbits.life/wp-content/uploads/2013/06/Background-rabbits-life-little.jpg",
+    "clicked": false
+}, {
+    "id": 9,
+    "image": "https://i.ytimg.com/vi/l70UhhNalqA/maxresdefault.jpg",
+    "clicked": false
+}]
